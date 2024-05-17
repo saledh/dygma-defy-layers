@@ -178,10 +178,9 @@
       "extraLabel": "A+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 53856,
+      "label": "PWD",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 0,
@@ -208,10 +207,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 53856,
+      "label": "PWD",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 555,
@@ -515,7 +513,7 @@
     3,
     3,
     3,
-    13,
+    3,
     7,
     7,
     3,
@@ -550,7 +548,7 @@
     3,
     3,
     3,
-    13,
+    3,
     7,
     7,
     3,
