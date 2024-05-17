@@ -379,15 +379,15 @@
       "label": "ESC"
     },
     {
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
+    },
+    {
       "keyCode": 0,
       "label": "KEY",
       "extraLabel": "NO",
       "verbose": "Disabled"
-    },
-    {
-      "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
     },
     {
       "keyCode": 44,
@@ -454,15 +454,15 @@
       "label": "SPACE"
     },
     {
-      "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
-    },
-    {
       "keyCode": 0,
       "label": "KEY",
       "extraLabel": "NO",
       "verbose": "Disabled"
+    },
+    {
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
     }
   ],
   "colormap": [
@@ -493,8 +493,8 @@
     8,
     8,
     8,
-    7,
     14,
+    7,
     1,
     1,
     7,
@@ -528,8 +528,8 @@
     8,
     8,
     8,
-    7,
     14,
+    7,
     1,
     1,
     7,

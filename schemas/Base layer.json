@@ -385,9 +385,9 @@
       "label": "DEL"
     },
     {
-      "keyCode": 49165,
-      "label": "5",
-      "extraLabel": "OSL"
+      "keyCode": 17500,
+      "label": "9",
+      "extraLabel": "LOCK"
     },
     {
       "keyCode": 49167,
@@ -464,9 +464,9 @@
       "extraLabel": "OSL"
     },
     {
-      "keyCode": 49165,
-      "label": "5",
-      "extraLabel": "OSL"
+      "keyCode": 17500,
+      "label": "9",
+      "extraLabel": "LOCK"
     }
   ],
   "colormap": [
@@ -497,7 +497,7 @@
     15,
     4,
     14,
-    3,
+    8,
     12,
     1,
     1,
@@ -530,9 +530,9 @@
     6,
     6,
     15,
-    9,
+    10,
     14,
-    3,
+    8,
     12,
     1,
     1,

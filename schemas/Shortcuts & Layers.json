@@ -415,9 +415,9 @@
       "extraLabel": "LOCK"
     },
     {
-      "keyCode": 17500,
-      "label": "9",
-      "extraLabel": "LOCK"
+      "keyCode": 49165,
+      "label": "5",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 17495,
@@ -486,9 +486,9 @@
       "extraLabel": "LOCK"
     },
     {
-      "keyCode": 17500,
-      "label": "9",
-      "extraLabel": "LOCK"
+      "keyCode": 49165,
+      "label": "5",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 17497,
@@ -525,7 +525,7 @@
     12,
     12,
     15,
-    8,
+    3,
     5,
     2,
     9,
@@ -560,7 +560,7 @@
     12,
     12,
     15,
-    8,
+    3,
     5,
     2,
     9,
