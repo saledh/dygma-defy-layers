@@ -15,31 +15,31 @@
   "layerNames": [
     {
       "id": 0,
-      "name": "Numbers layer"
+      "name": "1. Numbers layer"
     },
     {
       "id": 1,
-      "name": "Symbols layer"
+      "name": "2. Symbols layer"
     },
     {
       "id": 2,
-      "name": "Media & Navigation layer"
+      "name": "3. Media & Navigation layer"
     },
     {
       "id": 3,
-      "name": "Navigation & Media layer"
+      "name": "4. Navigation & Media layer"
     },
     {
       "id": 4,
-      "name": "OS shortcuts layer"
+      "name": "5. OS shortcuts layer"
     },
     {
       "id": 5,
-      "name": "Mouse & shortcuts layer"
+      "name": "6. Mouse & shortcuts layer"
     },
     {
       "id": 6,
-      "name": "Shortcuts & Layers"
+      "name": "7. Shortcuts & Layers"
     },
     {
       "id": 7,
@@ -47,11 +47,11 @@
     },
     {
       "id": 8,
-      "name": "Base layer specular"
+      "name": "9. Base layer specular"
     },
     {
       "id": 9,
-      "name": "Base layer"
+      "name": "10. Base layer"
     }
   ],
   "keymap": [
@@ -152,64 +152,29 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 57,
-      "label": "⇪",
-      "verbose": "Caps Lock"
+      "keyCode": 226,
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
     },
     {
-      "keyCode": 17153,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "LED",
-      "verbose": "Previous"
+      "keyCode": 2101,
+      "label": "~"
     },
     {
-      "keyCode": 19682,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "",
-      "verbose": "Mute"
+      "keyCode": 2084,
+      "label": "&"
     },
     {
-      "keyCode": 23786,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "",
-      "verbose": "Volume down"
+      "keyCode": 2085,
+      "label": "*"
     },
     {
-      "keyCode": 23785,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "",
-      "verbose": "Volume up"
+      "keyCode": 2086,
+      "label": "("
     },
     {
-      "keyCode": 17152,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "LED",
-      "verbose": "Next"
+      "keyCode": 2097,
+      "label": "|"
     },
     {
       "keyCode": 224,
@@ -236,74 +201,54 @@
       "verbose": "Right Control"
     },
     {
-      "keyCode": 20866,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "verbose": "Sleep"
+      "keyCode": 2097,
+      "label": "|"
     },
     {
-      "keyCode": 70,
-      "label": "PRINT SCRN",
-      "verbose": "Print Screen"
+      "keyCode": 2086,
+      "label": "("
     },
     {
-      "keyCode": 72,
-      "label": "PAUSE"
+      "keyCode": 2085,
+      "label": "*"
     },
     {
-      "keyCode": 101,
-      "label": "MENU"
+      "keyCode": 2084,
+      "label": "&"
     },
     {
-      "keyCode": 54109,
-      "label": "PAIR.",
-      "extraLabel": "BLUET."
+      "keyCode": 2101,
+      "label": "~"
     },
     {
-      "keyCode": 57,
-      "label": "⇪",
-      "verbose": "Caps Lock"
+      "keyCode": 230,
+      "label": "RIGHT ALT",
+      "extraLabel": "",
+      "verbose": "AltGr"
     },
     {
       "keyCode": 43,
       "label": "TAB"
     },
     {
-      "keyCode": 17154,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "LED",
-      "verbose": "Toggle"
+      "keyCode": 2099,
+      "label": ":"
     },
     {
-      "keyCode": 226,
-      "label": "LEFT ALT",
-      "verbose": "Left Alt"
+      "keyCode": 2081,
+      "label": "$"
     },
     {
-      "keyCode": 224,
-      "label": "CTRL",
-      "extraLabel": "LEFT",
-      "verbose": "Left Control"
+      "keyCode": 2082,
+      "label": "%"
     },
     {
-      "keyCode": 225,
-      "label": "SHIFT",
-      "extraLabel": "LEFT",
-      "verbose": "Left Shift"
+      "keyCode": 2083,
+      "label": "^"
     },
     {
-      "keyCode": 227,
-      "label": "LEFT WIN",
-      "verbose": "Left Windows"
+      "keyCode": 2087,
+      "label": ")"
     },
     {
       "keyCode": 225,
@@ -330,25 +275,24 @@
       "verbose": "Right Shift"
     },
     {
-      "keyCode": 71,
-      "label": "SCROLL LCK",
-      "verbose": "Scroll Lock"
+      "keyCode": 2087,
+      "label": ")"
     },
     {
-      "keyCode": 80,
-      "label": "←"
+      "keyCode": 2083,
+      "label": "^"
     },
     {
-      "keyCode": 81,
-      "label": "↓"
+      "keyCode": 2082,
+      "label": "%"
     },
     {
-      "keyCode": 82,
-      "label": "↑"
+      "keyCode": 2081,
+      "label": "$"
     },
     {
-      "keyCode": 79,
-      "label": "→"
+      "keyCode": 2099,
+      "label": ":"
     },
     {
       "keyCode": 42,
@@ -360,59 +304,24 @@
       "label": "ESC"
     },
     {
-      "keyCode": 22710,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "",
-      "verbose": "Prev. track"
+      "keyCode": 2094,
+      "label": "+"
     },
     {
-      "keyCode": 22711,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "",
-      "verbose": "Stop"
+      "keyCode": 2078,
+      "label": "!"
     },
     {
-      "keyCode": 22733,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "",
-      "verbose": "Play / pause"
+      "keyCode": 2079,
+      "label": "@"
     },
     {
-      "keyCode": 22709,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "",
-      "verbose": "Next track"
+      "keyCode": 2080,
+      "label": "#"
     },
     {
-      "keyCode": 23663,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "Display",
-      "verbose": "Bright +"
+      "keyCode": 2093,
+      "label": "_"
     },
     {
       "keyCode": 65535,
@@ -439,55 +348,46 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 73,
-      "label": "INSERT"
+      "keyCode": 2093,
+      "label": "_"
     },
     {
-      "keyCode": 74,
-      "label": "HOME"
+      "keyCode": 2080,
+      "label": "#"
     },
     {
-      "keyCode": 78,
-      "label": "PAGE DOWN",
-      "verbose": "Page Down"
+      "keyCode": 2079,
+      "label": "@"
     },
     {
-      "keyCode": 75,
-      "label": "PAGE UP",
-      "verbose": "Page Up"
+      "keyCode": 2078,
+      "label": "!"
     },
     {
-      "keyCode": 77,
-      "label": "END"
+      "keyCode": 2094,
+      "label": "+"
     },
     {
       "keyCode": 76,
       "label": "DEL"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 49167,
+      "label": "7",
+      "extraLabel": "OSL"
     },
     {
-      "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
+      "keyCode": 53982,
+      "label": "Layer",
+      "extraLabel": "SUPER"
     },
     {
-      "keyCode": 44,
-      "label": "SPACE"
+      "keyCode": 2095,
+      "label": "{"
     },
     {
-      "keyCode": 40,
-      "label": "ENTER"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2096,
+      "label": "}"
     },
     {
       "keyCode": 0,
@@ -532,92 +432,97 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 40,
-      "label": "ENTER"
-    },
-    {
-      "keyCode": 44,
-      "label": "SPACE"
-    },
-    {
-      "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
-    },
-    {
       "keyCode": 0,
       "label": "KEY",
       "extraLabel": "NO",
       "verbose": "Disabled"
+    },
+    {
+      "keyCode": 2096,
+      "label": "}"
+    },
+    {
+      "keyCode": 2095,
+      "label": "{"
+    },
+    {
+      "keyCode": 53982,
+      "label": "Layer",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 49167,
+      "label": "7",
+      "extraLabel": "OSL"
     }
   ],
   "colormap": [
     7,
-    7,
-    7,
-    7,
-    7,
-    7,
-    7,
-    1,
-    4,
-    4,
-    4,
-    4,
-    4,
-    1,
-    1,
-    4,
-    0,
-    0,
-    0,
-    0,
-    1,
-    1,
-    4,
-    4,
-    4,
-    4,
-    4,
     13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    1,
+    10,
+    10,
+    10,
+    10,
+    10,
+    1,
+    1,
+    10,
+    10,
+    10,
+    10,
+    10,
+    1,
+    1,
+    10,
+    10,
+    10,
+    10,
+    10,
+    12,
     14,
-    1,
-    1,
+    10,
+    10,
+    13,
+    7,
     13,
     7,
     7,
-    7,
-    7,
-    7,
-    7,
-    7,
-    7,
-    7,
-    7,
-    1,
-    5,
-    5,
-    5,
-    5,
-    5,
-    1,
-    1,
-    5,
-    5,
-    5,
-    5,
-    5,
-    1,
-    1,
-    5,
-    5,
-    5,
-    5,
-    5,
     13,
-    6,
+    13,
+    13,
+    13,
+    13,
+    13,
+    1,
+    10,
+    10,
+    10,
+    10,
+    10,
     1,
     1,
+    10,
+    10,
+    10,
+    10,
+    10,
+    1,
+    1,
+    10,
+    10,
+    10,
+    10,
+    10,
+    12,
+    14,
+    10,
+    10,
     13,
     7,
     13,

@@ -15,31 +15,31 @@
   "layerNames": [
     {
       "id": 0,
-      "name": "Numbers layer"
+      "name": "1. Numbers layer"
     },
     {
       "id": 1,
-      "name": "Symbols layer"
+      "name": "2. Symbols layer"
     },
     {
       "id": 2,
-      "name": "Media & Navigation layer"
+      "name": "3. Media & Navigation layer"
     },
     {
       "id": 3,
-      "name": "Navigation & Media layer"
+      "name": "4. Navigation & Media layer"
     },
     {
       "id": 4,
-      "name": "OS shortcuts layer"
+      "name": "5. OS shortcuts layer"
     },
     {
       "id": 5,
-      "name": "Mouse & shortcuts layer"
+      "name": "6. Mouse & shortcuts layer"
     },
     {
       "id": 6,
-      "name": "Shortcuts & Layers"
+      "name": "7. Shortcuts & Layers"
     },
     {
       "id": 7,
@@ -47,11 +47,11 @@
     },
     {
       "id": 8,
-      "name": "Base layer specular"
+      "name": "9. Base layer specular"
     },
     {
       "id": 9,
-      "name": "Base layer"
+      "name": "10. Base layer"
     }
   ],
   "keymap": [
