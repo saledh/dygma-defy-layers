@@ -15,43 +15,43 @@
   "layerNames": [
     {
       "id": 0,
-      "name": "1. Numbers layer"
+      "name": "Numbers layer"
     },
     {
       "id": 1,
-      "name": "2. Symbols layer"
+      "name": "Symbols layer"
     },
     {
       "id": 2,
-      "name": "3. Media & Navigation layer"
+      "name": "Media & Navigation layer"
     },
     {
       "id": 3,
-      "name": "4. Navigation & Media layer"
+      "name": "Navigation & Media layer"
     },
     {
       "id": 4,
-      "name": "5. OS shortcuts layer"
+      "name": "OS shortcuts layer"
     },
     {
       "id": 5,
-      "name": "6. Mouse & shortcuts layer"
+      "name": "Mouse layer"
     },
     {
       "id": 6,
-      "name": "7. Shortcuts & Layers"
+      "name": "Common shortcuts layer"
     },
     {
       "id": 7,
-      "name": "Blank layer"
+      "name": "Gaming layer"
     },
     {
       "id": 8,
-      "name": "9. Base layer specular"
+      "name": "Base specular layer"
     },
     {
       "id": 9,
-      "name": "10. Base layer"
+      "name": "Base layer"
     }
   ],
   "keymap": [
@@ -318,15 +318,9 @@
       "verbose": "Right Shift"
     },
     {
-      "keyCode": 17154,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "LED",
-      "verbose": "Toggle"
+      "keyCode": 231,
+      "label": "RIGHT WIN",
+      "verbose": "Right Windows"
     },
     {
       "keyCode": 229,
@@ -347,9 +341,15 @@
       "verbose": "AltGr"
     },
     {
-      "keyCode": 231,
-      "label": "RIGHT WIN",
-      "verbose": "Right Windows"
+      "keyCode": 17154,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "LED",
+      "verbose": "Toggle"
     },
     {
       "keyCode": 42,
@@ -357,8 +357,8 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 41,
-      "label": "ESC"
+      "keyCode": 76,
+      "label": "DEL"
     },
     {
       "keyCode": 74,
@@ -462,18 +462,18 @@
       "verbose": "Next track"
     },
     {
-      "keyCode": 76,
-      "label": "DEL"
+      "keyCode": 41,
+      "label": "ESC"
+    },
+    {
+      "keyCode": 53982,
+      "label": "10-3-",
+      "extraLabel": "SUPER"
     },
     {
       "keyCode": 49167,
       "label": "7",
       "extraLabel": "OSL"
-    },
-    {
-      "keyCode": 53982,
-      "label": "Layer",
-      "extraLabel": "SUPER"
     },
     {
       "keyCode": 44,
@@ -540,14 +540,14 @@
       "label": "SPACE"
     },
     {
-      "keyCode": 53982,
-      "label": "Layer",
-      "extraLabel": "SUPER"
-    },
-    {
       "keyCode": 49167,
       "label": "7",
       "extraLabel": "OSL"
+    },
+    {
+      "keyCode": 53982,
+      "label": "10-3-",
+      "extraLabel": "SUPER"
     }
   ],
   "colormap": [
@@ -578,48 +578,48 @@
     5,
     5,
     5,
-    12,
     14,
-    1,
-    1,
-    13,
-    13,
-    13,
-    13,
-    7,
-    7,
-    7,
-    7,
-    7,
-    7,
-    7,
-    1,
-    4,
-    4,
-    4,
-    4,
-    4,
-    1,
-    1,
-    0,
-    0,
-    0,
-    0,
-    4,
-    1,
-    1,
-    4,
-    4,
-    4,
-    4,
-    4,
     12,
+    1,
+    1,
+    13,
+    13,
+    13,
+    13,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    1,
+    4,
+    4,
+    4,
+    4,
+    4,
+    1,
+    1,
+    4,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    4,
+    4,
+    4,
+    4,
+    4,
     14,
+    12,
     1,
     1,
     13,
     7,
-    7,
+    13,
     13,
     6,
     6,

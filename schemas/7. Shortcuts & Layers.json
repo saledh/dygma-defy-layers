@@ -15,43 +15,43 @@
   "layerNames": [
     {
       "id": 0,
-      "name": "1. Numbers layer"
+      "name": "Numbers layer"
     },
     {
       "id": 1,
-      "name": "2. Symbols layer"
+      "name": "Symbols layer"
     },
     {
       "id": 2,
-      "name": "3. Media & Navigation layer"
+      "name": "Media & Navigation layer"
     },
     {
       "id": 3,
-      "name": "4. Navigation & Media layer"
+      "name": "Navigation & Media layer"
     },
     {
       "id": 4,
-      "name": "5. OS shortcuts layer"
+      "name": "OS shortcuts layer"
     },
     {
       "id": 5,
-      "name": "6. Mouse & shortcuts layer"
+      "name": "Mouse & shortcuts layer"
     },
     {
       "id": 6,
-      "name": "7. Shortcuts & Layers"
+      "name": "Common shortcuts layer"
     },
     {
       "id": 7,
-      "name": "Blank layer"
+      "name": "Gaming layer"
     },
     {
       "id": 8,
-      "name": "9. Base layer specular"
+      "name": "Base specular layer"
     },
     {
       "id": 9,
-      "name": "10. Base layer"
+      "name": "Base layer"
     }
   ],
   "keymap": [
@@ -345,20 +345,14 @@
       "extraLabel": "C+"
     },
     {
-      "keyCode": 555,
-      "label": "TAB",
-      "extraLabel": "A+"
-    },
-    {
       "keyCode": 263,
       "label": "D",
       "extraLabel": "C+"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 4103,
+      "label": "D",
+      "extraLabel": "O+"
     },
     {
       "keyCode": 65535,
@@ -377,16 +371,22 @@
       "label": "",
       "extraLabel": "TRANS",
       "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 4103,
+      "label": "D",
+      "extraLabel": "O+"
     },
     {
       "keyCode": 263,
       "label": "D",
       "extraLabel": "C+"
-    },
-    {
-      "keyCode": 555,
-      "label": "TAB",
-      "extraLabel": "A+"
     },
     {
       "keyCode": 278,
@@ -410,9 +410,20 @@
       "verbose": "Disabled"
     },
     {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
       "keyCode": 49165,
       "label": "5",
       "extraLabel": "OSL"
+    },
+    {
+      "keyCode": 555,
+      "label": "TAB",
+      "extraLabel": "A+"
     },
     {
       "keyCode": 299,
@@ -468,38 +479,25 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
       "keyCode": 299,
       "label": "TAB",
       "extraLabel": "C+"
     },
     {
+      "keyCode": 555,
+      "label": "TAB",
+      "extraLabel": "A+"
+    },
+    {
       "keyCode": 49165,
       "label": "5",
       "extraLabel": "OSL"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     }
   ],
   "colormap": [
@@ -530,14 +528,14 @@
     12,
     12,
     12,
+    13,
     3,
     12,
+    12,
     13,
     13,
     13,
     13,
-    13,
-    13,
     7,
     7,
     7,
@@ -565,10 +563,10 @@
     12,
     12,
     12,
+    13,
     3,
     12,
-    13,
-    13,
+    12,
     13,
     13,
     13,

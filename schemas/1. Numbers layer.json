@@ -15,51 +15,49 @@
   "layerNames": [
     {
       "id": 0,
-      "name": "1. Numbers layer"
+      "name": "Numbers layer"
     },
     {
       "id": 1,
-      "name": "2. Symbols layer"
+      "name": "Symbols layer"
     },
     {
       "id": 2,
-      "name": "3. Media & Navigation layer"
+      "name": "Media & Navigation layer"
     },
     {
       "id": 3,
-      "name": "4. Navigation & Media layer"
+      "name": "Navigation & Media layer"
     },
     {
       "id": 4,
-      "name": "5. OS shortcuts layer"
+      "name": "OS shortcuts layer"
     },
     {
       "id": 5,
-      "name": "6. Mouse & shortcuts layer"
+      "name": "Mouse layer"
     },
     {
       "id": 6,
-      "name": "7. Shortcuts & Layers"
+      "name": "Common shortcuts layer"
     },
     {
       "id": 7,
-      "name": "Blank layer"
+      "name": "Gaming layer"
     },
     {
       "id": 8,
-      "name": "9. Base layer specular"
+      "name": "Base specular layer"
     },
     {
       "id": 9,
-      "name": "10. Base layer"
+      "name": "Base layer"
     }
   ],
   "keymap": [
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
       "keyCode": 0,
@@ -231,8 +229,8 @@
       "label": "TAB"
     },
     {
-      "keyCode": 51,
-      "label": ";"
+      "keyCode": 39,
+      "label": "0"
     },
     {
       "keyCode": 33,
@@ -247,8 +245,8 @@
       "label": "6"
     },
     {
-      "keyCode": 39,
-      "label": "0"
+      "keyCode": 51,
+      "label": ";"
     },
     {
       "keyCode": 225,
@@ -275,8 +273,8 @@
       "verbose": "Right Shift"
     },
     {
-      "keyCode": 39,
-      "label": "0"
+      "keyCode": 51,
+      "label": ";"
     },
     {
       "keyCode": 35,
@@ -291,8 +289,8 @@
       "label": "4"
     },
     {
-      "keyCode": 51,
-      "label": ";"
+      "keyCode": 39,
+      "label": "0"
     },
     {
       "keyCode": 42,
@@ -300,86 +298,86 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 41,
-      "label": "ESC"
-    },
-    {
-      "keyCode": 46,
-      "label": "="
-    },
-    {
-      "keyCode": 30,
-      "label": "1"
-    },
-    {
-      "keyCode": 31,
-      "label": "2"
-    },
-    {
-      "keyCode": 32,
-      "label": "3"
-    },
-    {
-      "keyCode": 45,
-      "label": "-"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 45,
-      "label": "-"
-    },
-    {
-      "keyCode": 32,
-      "label": "3"
-    },
-    {
-      "keyCode": 31,
-      "label": "2"
-    },
-    {
-      "keyCode": 30,
-      "label": "1"
-    },
-    {
-      "keyCode": 46,
-      "label": "="
-    },
-    {
       "keyCode": 76,
       "label": "DEL"
     },
     {
-      "keyCode": 49167,
-      "label": "7",
-      "extraLabel": "OSL"
+      "keyCode": 45,
+      "label": "-"
+    },
+    {
+      "keyCode": 30,
+      "label": "1"
+    },
+    {
+      "keyCode": 31,
+      "label": "2"
+    },
+    {
+      "keyCode": 32,
+      "label": "3"
+    },
+    {
+      "keyCode": 46,
+      "label": "="
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 46,
+      "label": "="
+    },
+    {
+      "keyCode": 32,
+      "label": "3"
+    },
+    {
+      "keyCode": 31,
+      "label": "2"
+    },
+    {
+      "keyCode": 30,
+      "label": "1"
+    },
+    {
+      "keyCode": 45,
+      "label": "-"
+    },
+    {
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
       "keyCode": 53982,
-      "label": "Layer",
+      "label": "10-3-",
       "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 49167,
+      "label": "7",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 47,
@@ -446,14 +444,14 @@
       "label": "["
     },
     {
-      "keyCode": 53982,
-      "label": "Layer",
-      "extraLabel": "SUPER"
-    },
-    {
       "keyCode": 49167,
       "label": "7",
       "extraLabel": "OSL"
+    },
+    {
+      "keyCode": 53982,
+      "label": "10-3-",
+      "extraLabel": "SUPER"
     }
   ],
   "colormap": [
@@ -484,43 +482,43 @@
     2,
     2,
     2,
-    12,
     14,
-    2,
-    2,
-    13,
-    13,
-    13,
-    7,
-    7,
-    13,
-    13,
-    7,
-    7,
-    7,
-    7,
-    1,
-    2,
-    2,
-    2,
-    2,
-    2,
-    1,
-    1,
-    2,
-    2,
-    2,
-    2,
-    2,
-    1,
-    1,
-    2,
-    2,
-    2,
-    2,
-    2,
     12,
+    2,
+    2,
+    13,
+    13,
+    13,
+    7,
+    7,
+    13,
+    13,
+    7,
+    7,
+    7,
+    7,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
     14,
+    12,
     2,
     2,
     13,
