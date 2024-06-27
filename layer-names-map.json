@@ -1,12 +1,12 @@
 {
-    "1": "1. Numbers layer",
-    "2": "2. Symbols layer",
-    "3": "3. Media & Navigation layer",
-    "4": "4. Navigation & Media layer",
-    "5": "5. OS shortcuts layer",
-    "6": "6. Mouse layer",
-    "7": "7. Shortcuts & layers",
-    "8": "Blank layer",
-    "9": "9. Base specular layer",
+    "1": "01. Numbers layer",
+    "2": "02. Symbols layer",
+    "3": "03. Media & Navigation layer",
+    "4": "04. Navigation & Media layer",
+    "5": "05. OS shortcuts layer",
+    "6": "06. Mouse layer",
+    "7": "07. Shortcuts & layers",
+    "8": "_Blank layer",
+    "9": "09. Base specular layer",
     "10": "10. Base layer" 
 }
