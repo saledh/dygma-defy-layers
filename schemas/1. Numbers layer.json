@@ -35,11 +35,11 @@
     },
     {
       "id": 5,
-      "name": "Mouse layer"
+      "name": "Mouse & shortcuts layer"
     },
     {
       "id": 6,
-      "name": "Common shortcuts layer"
+      "name": "Shortcuts layer"
     },
     {
       "id": 7,
@@ -47,7 +47,7 @@
     },
     {
       "id": 8,
-      "name": "Base specular layer"
+      "name": "Base layer specular "
     },
     {
       "id": 9,
@@ -150,9 +150,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 226,
-      "label": "LEFT ALT",
-      "verbose": "Left Alt"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
       "keyCode": 53,
@@ -219,14 +218,12 @@
       "label": "`"
     },
     {
-      "keyCode": 230,
-      "label": "RIGHT ALT",
-      "extraLabel": "",
-      "verbose": "AltGr"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
-      "keyCode": 43,
-      "label": "TAB"
+      "keyCode": 76,
+      "label": "DEL"
     },
     {
       "keyCode": 39,
@@ -298,12 +295,13 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 76,
-      "label": "DEL"
+      "keyCode": 226,
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
     },
     {
-      "keyCode": 45,
-      "label": "-"
+      "keyCode": 46,
+      "label": "="
     },
     {
       "keyCode": 30,
@@ -318,8 +316,8 @@
       "label": "3"
     },
     {
-      "keyCode": 46,
-      "label": "="
+      "keyCode": 45,
+      "label": "-"
     },
     {
       "keyCode": 65535,
@@ -346,8 +344,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 46,
-      "label": "="
+      "keyCode": 45,
+      "label": "-"
     },
     {
       "keyCode": 32,
@@ -362,22 +360,25 @@
       "label": "1"
     },
     {
-      "keyCode": 45,
-      "label": "-"
+      "keyCode": 46,
+      "label": "="
     },
     {
-      "keyCode": 41,
-      "label": "ESC"
+      "keyCode": 230,
+      "label": "RIGHT ALT",
+      "extraLabel": "",
+      "verbose": "AltGr"
     },
     {
-      "keyCode": 53982,
-      "label": "10-3-",
-      "extraLabel": "SUPER"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 49167,
-      "label": "7",
-      "extraLabel": "OSL"
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
     },
     {
       "keyCode": 47,
@@ -444,14 +445,15 @@
       "label": "["
     },
     {
-      "keyCode": 49167,
-      "label": "7",
-      "extraLabel": "OSL"
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
     },
     {
-      "keyCode": 53982,
-      "label": "10-3-",
-      "extraLabel": "SUPER"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     }
   ],
   "colormap": [
@@ -482,11 +484,11 @@
     2,
     2,
     2,
+    13,
     14,
-    12,
     2,
     2,
-    13,
+    7,
     13,
     13,
     7,
@@ -517,11 +519,11 @@
     2,
     2,
     2,
+    13,
     14,
-    12,
     2,
     2,
-    13,
+    7,
     7,
     13,
     7,

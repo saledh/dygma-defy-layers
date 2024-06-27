@@ -35,7 +35,7 @@
     },
     {
       "id": 5,
-      "name": "Mouse & shortcuts layer"
+      "name": "Mouse layer"
     },
     {
       "id": 6,
@@ -128,9 +128,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 57,
-      "label": "⇪",
-      "verbose": "Caps Lock"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
       "keyCode": 20,
@@ -197,17 +196,17 @@
       "label": "'"
     },
     {
-      "keyCode": 57,
-      "label": "⇪",
-      "verbose": "Caps Lock"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
-      "keyCode": 43,
-      "label": "TAB"
+      "keyCode": 76,
+      "label": "DEL"
     },
     {
-      "keyCode": 4,
-      "label": "A"
+      "keyCode": 53984,
+      "label": "5",
+      "extraLabel": "SUPER"
     },
     {
       "keyCode": 49702,
@@ -274,8 +273,9 @@
       "extraLabel": "ALT/"
     },
     {
-      "keyCode": 18,
-      "label": "O"
+      "keyCode": 53986,
+      "label": "7",
+      "extraLabel": "SUPER"
     },
     {
       "keyCode": 42,
@@ -283,8 +283,9 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 76,
-      "label": "DEL"
+      "keyCode": 57,
+      "label": "⇪",
+      "verbose": "Caps Lock"
     },
     {
       "keyCode": 29,
@@ -299,8 +300,9 @@
       "label": "C"
     },
     {
-      "keyCode": 7,
-      "label": "D"
+      "keyCode": 53988,
+      "label": "9",
+      "extraLabel": "SUPER"
     },
     {
       "keyCode": 25,
@@ -335,8 +337,9 @@
       "label": "K"
     },
     {
-      "keyCode": 11,
-      "label": "H"
+      "keyCode": 53989,
+      "label": "10",
+      "extraLabel": "SUPER"
     },
     {
       "keyCode": 54,
@@ -351,18 +354,19 @@
       "label": "/"
     },
     {
-      "keyCode": 41,
-      "label": "ESC"
+      "keyCode": 57,
+      "label": "⇪",
+      "verbose": "Caps Lock"
     },
     {
-      "keyCode": 53981,
-      "label": "9-4-2",
-      "extraLabel": "SUPER"
+      "keyCode": 17500,
+      "label": "9",
+      "extraLabel": "LOCK"
     },
     {
-      "keyCode": 49167,
-      "label": "7",
-      "extraLabel": "OSL"
+      "keyCode": 52797,
+      "label": "TAB",
+      "extraLabel": "L#7/"
     },
     {
       "keyCode": 51774,
@@ -375,10 +379,9 @@
       "extraLabel": "L#6/"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 49165,
+      "label": "5",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 0,
@@ -417,10 +420,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 49165,
+      "label": "5",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 51514,
@@ -433,14 +435,14 @@
       "extraLabel": "L#1/"
     },
     {
-      "keyCode": 49167,
-      "label": "7",
-      "extraLabel": "OSL"
+      "keyCode": 52797,
+      "label": "TAB",
+      "extraLabel": "L#7/"
     },
     {
-      "keyCode": 53980,
-      "label": "9-3-2",
-      "extraLabel": "SUPER"
+      "keyCode": 17500,
+      "label": "9",
+      "extraLabel": "LOCK"
     }
   ],
   "colormap": [
@@ -459,7 +461,7 @@
     6,
     1,
     1,
-    14,
+    5,
     0,
     0,
     0,
@@ -469,13 +471,13 @@
     6,
     6,
     14,
+    15,
     14,
-    14,
-    6,
+    8,
     12,
     5,
     15,
-    13,
+    3,
     7,
     7,
     13,
@@ -494,7 +496,7 @@
     6,
     1,
     1,
-    14,
+    5,
     0,
     0,
     0,
@@ -504,13 +506,13 @@
     6,
     6,
     14,
+    15,
     14,
-    14,
-    6,
+    8,
     12,
     2,
     9,
-    13,
+    3,
     7,
     7,
     13,

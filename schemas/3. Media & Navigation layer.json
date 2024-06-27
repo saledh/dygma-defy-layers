@@ -35,11 +35,11 @@
     },
     {
       "id": 5,
-      "name": "Mouse layer"
+      "name": "Mouse & shortcuts layer"
     },
     {
       "id": 6,
-      "name": "Common shortcuts layer"
+      "name": "Shortcuts layer"
     },
     {
       "id": 7,
@@ -47,7 +47,7 @@
     },
     {
       "id": 8,
-      "name": "Base specular layer"
+      "name": "Base layer specular "
     },
     {
       "id": 9,
@@ -152,9 +152,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 57,
-      "label": "⇪",
-      "verbose": "Caps Lock"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
       "keyCode": 17153,
@@ -264,13 +263,12 @@
       "extraLabel": "BLUET."
     },
     {
-      "keyCode": 57,
-      "label": "⇪",
-      "verbose": "Caps Lock"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
-      "keyCode": 43,
-      "label": "TAB"
+      "keyCode": 76,
+      "label": "DEL"
     },
     {
       "keyCode": 17154,
@@ -356,8 +354,9 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 76,
-      "label": "DEL"
+      "keyCode": 226,
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
     },
     {
       "keyCode": 22710,
@@ -461,13 +460,15 @@
       "label": "END"
     },
     {
-      "keyCode": 41,
-      "label": "ESC"
+      "keyCode": 230,
+      "label": "RIGHT ALT",
+      "extraLabel": "",
+      "verbose": "AltGr"
     },
     {
-      "keyCode": 53983,
-      "label": "10-4-",
-      "extraLabel": "SUPER"
+      "keyCode": 17495,
+      "label": "4",
+      "extraLabel": "LOCK"
     },
     {
       "keyCode": 49167,
@@ -544,9 +545,9 @@
       "extraLabel": "OSL"
     },
     {
-      "keyCode": 53983,
-      "label": "10-4-",
-      "extraLabel": "SUPER"
+      "keyCode": 17495,
+      "label": "4",
+      "extraLabel": "LOCK"
     }
   ],
   "colormap": [
@@ -577,7 +578,7 @@
     4,
     4,
     4,
-    14,
+    5,
     12,
     1,
     1,
@@ -612,7 +613,7 @@
     5,
     5,
     5,
-    14,
+    4,
     12,
     1,
     1,

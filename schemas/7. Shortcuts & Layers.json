@@ -35,11 +35,11 @@
     },
     {
       "id": 5,
-      "name": "Mouse & shortcuts layer"
+      "name": "Mouse layer"
     },
     {
       "id": 6,
-      "name": "Common shortcuts layer"
+      "name": "Shortcuts layer"
     },
     {
       "id": 7,
@@ -47,7 +47,7 @@
     },
     {
       "id": 8,
-      "name": "Base specular layer"
+      "name": "Base layer specular "
     },
     {
       "id": 9,
@@ -350,9 +350,9 @@
       "extraLabel": "C+"
     },
     {
-      "keyCode": 4103,
-      "label": "D",
-      "extraLabel": "O+"
+      "keyCode": 53857,
+      "label": "6",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 65535,
@@ -379,9 +379,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 4103,
-      "label": "D",
-      "extraLabel": "O+"
+      "keyCode": 53857,
+      "label": "6",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 263,
@@ -416,25 +416,19 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 49165,
-      "label": "5",
-      "extraLabel": "OSL"
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
     },
     {
-      "keyCode": 555,
-      "label": "TAB",
-      "extraLabel": "A+"
+      "keyCode": 17492,
+      "label": "1",
+      "extraLabel": "LOCK"
     },
     {
-      "keyCode": 299,
-      "label": "TAB",
-      "extraLabel": "C+"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17493,
+      "label": "2",
+      "extraLabel": "LOCK"
     },
     {
       "keyCode": 0,
@@ -479,19 +473,25 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 299,
-      "label": "TAB",
-      "extraLabel": "C+"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 555,
-      "label": "TAB",
-      "extraLabel": "A+"
+      "keyCode": 17493,
+      "label": "2",
+      "extraLabel": "LOCK"
     },
     {
-      "keyCode": 49165,
-      "label": "5",
-      "extraLabel": "OSL"
+      "keyCode": 17492,
+      "label": "1",
+      "extraLabel": "LOCK"
+    },
+    {
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
     },
     {
       "keyCode": 0,
@@ -529,9 +529,9 @@
     12,
     12,
     13,
-    3,
-    12,
-    12,
+    14,
+    2,
+    9,
     13,
     13,
     13,
@@ -564,9 +564,9 @@
     12,
     12,
     13,
-    3,
-    12,
-    12,
+    14,
+    2,
+    9,
     13,
     13,
     13,
