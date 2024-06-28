@@ -158,28 +158,20 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 69,
+      "label": "F12"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 64,
+      "label": "F7"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 65,
+      "label": "F8"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 66,
+      "label": "F9"
     },
     {
       "keyCode": 0,
@@ -218,10 +210,20 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 66,
+      "label": "F9"
+    },
+    {
+      "keyCode": 65,
+      "label": "F8"
+    },
+    {
+      "keyCode": 64,
+      "label": "F7"
+    },
+    {
+      "keyCode": 69,
+      "label": "F12"
     },
     {
       "keyCode": 0,
@@ -236,47 +238,28 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 68,
+      "label": "F11"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 49742,
+      "label": "F4",
+      "extraLabel": "ALT/"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 49231,
+      "label": "F5",
+      "extraLabel": "CTRL/"
     },
     {
-      "keyCode": 20484,
-      "label": "LEFT",
-      "extraLabel": "Mouse"
+      "keyCode": 49488,
+      "label": "F6",
+      "extraLabel": "SHIFT/"
     },
     {
-      "keyCode": 20481,
-      "label": "UP",
-      "extraLabel": "Mouse"
-    },
-    {
-      "keyCode": 20482,
-      "label": "DOWN",
-      "extraLabel": "Mouse"
-    },
-    {
-      "keyCode": 20488,
-      "label": "RIGHT",
-      "extraLabel": "Mouse"
-    },
-    {
-      "keyCode": 53856,
-      "label": "dwp",
-      "extraLabel": "MACRO"
+      "keyCode": 227,
+      "label": "LEFT WIN",
+      "verbose": "Left Windows"
     },
     {
       "keyCode": 0,
@@ -303,35 +286,28 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 53856,
-      "label": "dwp",
-      "extraLabel": "MACRO"
+      "keyCode": 231,
+      "label": "RIGHT WIN",
+      "verbose": "Right Windows"
     },
     {
-      "keyCode": 20484,
-      "label": "LEFT",
-      "extraLabel": "Mouse"
+      "keyCode": 49488,
+      "label": "F6",
+      "extraLabel": "SHIFT/"
     },
     {
-      "keyCode": 20482,
-      "label": "DOWN",
-      "extraLabel": "Mouse"
+      "keyCode": 49231,
+      "label": "F5",
+      "extraLabel": "CTRL/"
     },
     {
-      "keyCode": 20481,
-      "label": "UP",
-      "extraLabel": "Mouse"
+      "keyCode": 49742,
+      "label": "F4",
+      "extraLabel": "ALT/"
     },
     {
-      "keyCode": 20488,
-      "label": "RIGHT",
-      "extraLabel": "Mouse"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 68,
+      "label": "F11"
     },
     {
       "keyCode": 0,
@@ -340,29 +316,34 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 20500,
-      "label": "LEFT",
-      "extraLabel": "M.Wheel"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 20497,
-      "label": "UP",
-      "extraLabel": "M.Wheel"
+      "keyCode": 67,
+      "label": "F10"
     },
     {
-      "keyCode": 20498,
-      "label": "DOWN",
-      "extraLabel": "M.Wheel"
+      "keyCode": 49483,
+      "label": "F1",
+      "extraLabel": "SHIFT/"
     },
     {
-      "keyCode": 20504,
-      "label": "RIGHT",
-      "extraLabel": "M.Wheel"
+      "keyCode": 59,
+      "label": "F2"
     },
     {
-      "keyCode": 53855,
-      "label": "ctrl ",
-      "extraLabel": "MACRO"
+      "keyCode": 49741,
+      "label": "F3",
+      "extraLabel": "ALT/"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 65535,
@@ -389,29 +370,28 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 53855,
-      "label": "ctrl ",
-      "extraLabel": "MACRO"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 20500,
-      "label": "LEFT",
-      "extraLabel": "M.Wheel"
+      "keyCode": 49741,
+      "label": "F3",
+      "extraLabel": "ALT/"
     },
     {
-      "keyCode": 20498,
-      "label": "DOWN",
-      "extraLabel": "M.Wheel"
+      "keyCode": 59,
+      "label": "F2"
     },
     {
-      "keyCode": 20497,
-      "label": "UP",
-      "extraLabel": "M.Wheel"
+      "keyCode": 49483,
+      "label": "F1",
+      "extraLabel": "SHIFT/"
     },
     {
-      "keyCode": 20504,
-      "label": "RIGHT",
-      "extraLabel": "M.Wheel"
+      "keyCode": 67,
+      "label": "F10"
     },
     {
       "keyCode": 0,
@@ -426,31 +406,15 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 49167,
-      "label": "7",
-      "extraLabel": "OSL"
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
     },
     {
-      "keyCode": 20545,
-      "label": "LEFT",
-      "extraLabel": "M.Btn"
-    },
-    {
-      "keyCode": 20546,
-      "label": "RIGHT",
-      "extraLabel": "M.Btn"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 224,
+      "label": "CTRL",
+      "extraLabel": "LEFT",
+      "verbose": "Left Control"
     },
     {
       "keyCode": 0,
@@ -489,19 +453,39 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 20546,
-      "label": "RIGHT",
-      "extraLabel": "M.Btn"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 20545,
-      "label": "LEFT",
-      "extraLabel": "M.Btn"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 49167,
-      "label": "7",
-      "extraLabel": "OSL"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 228,
+      "label": "CTRL",
+      "extraLabel": "RIGHT",
+      "verbose": "Right Control"
+    },
+    {
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
     },
     {
       "keyCode": 0,
@@ -519,67 +503,67 @@
     7,
     7,
     7,
-    13,
-    13,
-    13,
-    13,
-    13,
-    7,
-    7,
-    15,
-    15,
-    15,
-    15,
-    15,
-    7,
-    7,
-    15,
-    15,
-    15,
-    15,
-    15,
-    13,
-    12,
-    15,
-    15,
-    13,
-    13,
-    13,
-    13,
+    1,
+    1,
+    1,
+    1,
     7,
     7,
     7,
+    1,
+    0,
+    0,
+    0,
+    0,
     7,
     7,
+    1,
+    0,
+    1,
+    0,
+    7,
+    13,
+    14,
+    0,
     7,
     7,
     7,
     13,
     13,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    1,
+    1,
+    1,
+    1,
+    7,
+    7,
+    7,
+    1,
+    0,
+    0,
+    0,
+    0,
+    7,
     13,
+    1,
+    0,
+    1,
+    0,
+    7,
     13,
+    14,
+    0,
+    7,
     13,
     7,
     7,
-    15,
-    15,
-    15,
-    15,
-    15,
-    7,
-    13,
-    15,
-    15,
-    15,
-    15,
-    15,
-    13,
-    12,
-    15,
-    15,
-    13,
-    7,
-    13,
     13,
     6,
     6,
