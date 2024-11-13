@@ -15,43 +15,43 @@
   "layerNames": [
     {
       "id": 0,
-      "name": "Numbers layer"
+      "name": "L1"
     },
     {
       "id": 1,
-      "name": "Symbols layer"
+      "name": "L2"
     },
     {
       "id": 2,
-      "name": "Media & Navigation layer"
+      "name": "L3"
     },
     {
       "id": 3,
-      "name": "Navigation & Media layer"
+      "name": "L4"
     },
     {
       "id": 4,
-      "name": "OS shortcuts layer"
+      "name": "L5"
     },
     {
       "id": 5,
-      "name": "Mouse layer"
+      "name": "L6"
     },
     {
       "id": 6,
-      "name": "Shortcuts layer"
+      "name": "L7"
     },
     {
       "id": 7,
-      "name": "F keys layer"
+      "name": "L8"
     },
     {
       "id": 8,
-      "name": "Base layer specular "
+      "name": "L9"
     },
     {
       "id": 9,
-      "name": "Base layer"
+      "name": "L10"
     }
   ],
   "keymap": [
@@ -378,15 +378,23 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17501,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
     },
     {
-      "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
+      "keyCode": 225,
+      "label": "SHIFT",
+      "extraLabel": "LEFT",
+      "verbose": "Left Shift"
     },
     {
       "keyCode": 47,
@@ -453,15 +461,23 @@
       "label": "["
     },
     {
-      "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
+      "keyCode": 229,
+      "label": "SHIFT",
+      "extraLabel": "RIGHT",
+      "verbose": "Right Shift"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17501,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
     }
   ],
   "colormap": [
@@ -479,7 +495,7 @@
     2,
     2,
     13,
-    13,
+    7,
     2,
     2,
     2,
@@ -492,8 +508,8 @@
     2,
     2,
     2,
-    13,
     14,
+    1,
     2,
     2,
     7,
@@ -514,7 +530,7 @@
     2,
     2,
     13,
-    13,
+    7,
     2,
     2,
     2,
@@ -527,8 +543,8 @@
     2,
     2,
     2,
-    13,
     14,
+    1,
     2,
     2,
     7,
