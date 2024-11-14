@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "en-US",
+  "language": "english",
   "layerNames": [
     {
       "id": 0,
@@ -39,7 +39,7 @@
     },
     {
       "id": 6,
-      "name": "Shortcuts layer"
+      "name": "Shortcuts & Layers"
     },
     {
       "id": 7,
@@ -47,7 +47,7 @@
     },
     {
       "id": 8,
-      "name": "Base layer specular "
+      "name": "Base layer specular"
     },
     {
       "id": 9,
@@ -238,10 +238,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 53857,
+      "label": "alt +",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 285,
@@ -318,16 +317,14 @@
       "extraLabel": "C+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 53857,
+      "label": "alt +",
+      "extraLabel": "MACRO"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 299,
+      "label": "TAB",
+      "extraLabel": "C+"
     },
     {
       "keyCode": 312,
@@ -350,9 +347,9 @@
       "extraLabel": "C+"
     },
     {
-      "keyCode": 53857,
-      "label": "6",
-      "extraLabel": "MACRO"
+      "keyCode": 585,
+      "label": "INSERT",
+      "extraLabel": "A+"
     },
     {
       "keyCode": 65535,
@@ -379,9 +376,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 53857,
-      "label": "6",
-      "extraLabel": "MACRO"
+      "keyCode": 585,
+      "label": "INSERT",
+      "extraLabel": "A+"
     },
     {
       "keyCode": 263,
@@ -404,6 +401,75 @@
       "extraLabel": "C+"
     },
     {
+      "keyCode": 299,
+      "label": "TAB",
+      "extraLabel": "C+"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 2347,
+      "label": "TAB",
+      "extraLabel": "C+S+"
+    },
+    {
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
       "keyCode": 0,
       "label": "KEY",
       "extraLabel": "NO",
@@ -421,77 +487,9 @@
       "extraLabel": "LOCK"
     },
     {
-      "keyCode": 17492,
-      "label": "1",
-      "extraLabel": "LOCK"
-    },
-    {
-      "keyCode": 17493,
-      "label": "2",
-      "extraLabel": "LOCK"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 17493,
-      "label": "2",
-      "extraLabel": "LOCK"
-    },
-    {
-      "keyCode": 17492,
-      "label": "1",
-      "extraLabel": "LOCK"
-    },
-    {
-      "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
+      "keyCode": 2347,
+      "label": "TAB",
+      "extraLabel": "C+S+"
     },
     {
       "keyCode": 0,
@@ -515,27 +513,27 @@
     12,
     12,
     7,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
     7,
     12,
-    12,
-    12,
-    12,
-    12,
-    7,
-    7,
     12,
     12,
     12,
     12,
     12,
     13,
+    12,
     14,
-    2,
-    9,
     13,
     13,
     13,
     13,
+    13,
     7,
     7,
     7,
@@ -550,23 +548,23 @@
     12,
     12,
     7,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
     7,
     12,
     12,
     12,
     12,
     12,
-    7,
+    12,
     13,
     12,
-    12,
-    12,
-    12,
-    12,
-    13,
     14,
-    2,
-    9,
+    13,
     13,
     13,
     13,

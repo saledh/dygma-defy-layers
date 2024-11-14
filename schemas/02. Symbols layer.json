@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "en-US",
+  "language": "english",
   "layerNames": [
     {
       "id": 0,
@@ -39,7 +39,7 @@
     },
     {
       "id": 6,
-      "name": "Shortcuts layer"
+      "name": "Shortcuts & Layers"
     },
     {
       "id": 7,
@@ -47,7 +47,7 @@
     },
     {
       "id": 8,
-      "name": "Base layer specular "
+      "name": "Base layer specular"
     },
     {
       "id": 9,
@@ -380,12 +380,6 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
       "keyCode": 17501,
       "label": "10",
       "extraLabel": "LOCK"
@@ -447,6 +441,18 @@
       "verbose": "Disabled"
     },
     {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
       "keyCode": 2096,
       "label": "}"
     },
@@ -458,12 +464,6 @@
       "keyCode": 17501,
       "label": "10",
       "extraLabel": "LOCK"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
     }
   ],
   "colormap": [
@@ -481,7 +481,7 @@
     10,
     10,
     13,
-    13,
+    7,
     10,
     10,
     10,
@@ -494,45 +494,45 @@
     10,
     10,
     10,
+    6,
+    9,
+    10,
+    7,
     13,
-    14,
+    7,
+    13,
+    7,
+    7,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    10,
+    10,
+    10,
     10,
     10,
     13,
     7,
+    10,
+    10,
+    10,
+    10,
+    10,
     13,
+    13,
+    10,
+    10,
+    10,
+    10,
+    10,
+    6,
+    9,
+    10,
     7,
-    7,
-    13,
-    13,
-    13,
-    13,
-    13,
-    13,
-    13,
-    10,
-    10,
-    10,
-    10,
-    10,
-    13,
-    13,
-    10,
-    10,
-    10,
-    10,
-    10,
-    13,
-    13,
-    10,
-    10,
-    10,
-    10,
-    10,
-    13,
-    14,
-    10,
-    10,
     13,
     7,
     13,

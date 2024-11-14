@@ -11,47 +11,47 @@
       }
     ]
   },
-  "language": "en-US",
+  "language": "english",
   "layerNames": [
     {
       "id": 0,
-      "name": "L1"
+      "name": "Numbers layer"
     },
     {
       "id": 1,
-      "name": "L2"
+      "name": "Symbols layer"
     },
     {
       "id": 2,
-      "name": "L3"
+      "name": "Media & Navigation layer"
     },
     {
       "id": 3,
-      "name": "L4"
+      "name": "Navigation & Media layer"
     },
     {
       "id": 4,
-      "name": "L5"
+      "name": "OS shortcuts layer"
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": "Mouse layer"
     },
     {
       "id": 6,
-      "name": "L7"
+      "name": "Shortcuts & Layers"
     },
     {
       "id": 7,
-      "name": "L8"
+      "name": "F keys layer"
     },
     {
       "id": 8,
-      "name": "L9"
+      "name": "Base layer specular"
     },
     {
       "id": 9,
-      "name": "L10"
+      "name": "Base layer"
     }
   ],
   "keymap": [
@@ -379,16 +379,16 @@
     },
     {
       "keyCode": 17501,
-      "label": "",
-      "extraLabel": {
-        "key": null,
-        "ref": null,
-        "props": {
-          "type": "lock",
-          "layerNumber": 10
-        },
-        "_owner": null
-      }
+      "label": "10",
+      "extraLabel": "LOCK"
+    },
+    {
+      "keyCode": 47,
+      "label": "["
+    },
+    {
+      "keyCode": 48,
+      "label": "]"
     },
     {
       "keyCode": 225,
@@ -397,14 +397,6 @@
       "verbose": "Left Shift"
     },
     {
-      "keyCode": 47,
-      "label": "["
-    },
-    {
-      "keyCode": 48,
-      "label": "]"
-    },
-    {
       "keyCode": 0,
       "label": "KEY",
       "extraLabel": "NO",
@@ -451,14 +443,6 @@
       "label": "KEY",
       "extraLabel": "NO",
       "verbose": "Disabled"
-    },
-    {
-      "keyCode": 48,
-      "label": "]"
-    },
-    {
-      "keyCode": 47,
-      "label": "["
     },
     {
       "keyCode": 229,
@@ -467,17 +451,17 @@
       "verbose": "Right Shift"
     },
     {
+      "keyCode": 48,
+      "label": "]"
+    },
+    {
+      "keyCode": 47,
+      "label": "["
+    },
+    {
       "keyCode": 17501,
-      "label": "",
-      "extraLabel": {
-        "key": null,
-        "ref": null,
-        "props": {
-          "type": "lock",
-          "layerNumber": 10
-        },
-        "_owner": null
-      }
+      "label": "10",
+      "extraLabel": "LOCK"
     }
   ],
   "colormap": [
@@ -509,9 +493,9 @@
     2,
     2,
     14,
+    2,
+    2,
     1,
-    2,
-    2,
     7,
     13,
     13,
@@ -544,9 +528,9 @@
     2,
     2,
     14,
+    2,
+    2,
     1,
-    2,
-    2,
     7,
     7,
     13,

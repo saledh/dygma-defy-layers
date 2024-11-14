@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "en-US",
+  "language": "english",
   "layerNames": [
     {
       "id": 0,
@@ -39,7 +39,7 @@
     },
     {
       "id": 6,
-      "name": "Shortcuts layer"
+      "name": "Shortcuts & Layers"
     },
     {
       "id": 7,
@@ -47,7 +47,7 @@
     },
     {
       "id": 8,
-      "name": "Base layer specular "
+      "name": "Base layer specular"
     },
     {
       "id": 9,
@@ -158,34 +158,29 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2089,
+      "label": "ESC",
+      "extraLabel": "S+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 581,
+      "label": "F12",
+      "extraLabel": "A+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 542,
+      "label": "1",
+      "extraLabel": "A+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 551,
+      "label": "0",
+      "extraLabel": "A+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2111,
+      "label": "F6",
+      "extraLabel": "S+"
     },
     {
       "keyCode": 0,
@@ -212,34 +207,29 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2111,
+      "label": "F6",
+      "extraLabel": "S+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 551,
+      "label": "0",
+      "extraLabel": "A+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 542,
+      "label": "1",
+      "extraLabel": "A+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 581,
+      "label": "F12",
+      "extraLabel": "A+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2089,
+      "label": "ESC",
+      "extraLabel": "S+"
     },
     {
       "keyCode": 0,
@@ -274,9 +264,9 @@
       "extraLabel": "Mouse"
     },
     {
-      "keyCode": 53856,
-      "label": "dwp",
-      "extraLabel": "MACRO"
+      "keyCode": 2115,
+      "label": "F10",
+      "extraLabel": "S+"
     },
     {
       "keyCode": 0,
@@ -303,9 +293,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 53856,
-      "label": "dwp",
-      "extraLabel": "MACRO"
+      "keyCode": 2115,
+      "label": "F10",
+      "extraLabel": "S+"
     },
     {
       "keyCode": 20484,
@@ -334,10 +324,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
     },
     {
       "keyCode": 20500,
@@ -361,7 +350,7 @@
     },
     {
       "keyCode": 53855,
-      "label": "ctrl ",
+      "label": "contr",
       "extraLabel": "MACRO"
     },
     {
@@ -390,7 +379,7 @@
     },
     {
       "keyCode": 53855,
-      "label": "ctrl ",
+      "label": "contr",
       "extraLabel": "MACRO"
     },
     {
@@ -414,6 +403,68 @@
       "extraLabel": "M.Wheel"
     },
     {
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 20545,
+      "label": "LEFT",
+      "extraLabel": "M.Btn"
+    },
+    {
+      "keyCode": 20546,
+      "label": "RIGHT",
+      "extraLabel": "M.Btn"
+    },
+    {
+      "keyCode": 49167,
+      "label": "7",
+      "extraLabel": "OSL"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
       "keyCode": 0,
       "label": "KEY",
       "extraLabel": "NO",
@@ -431,64 +482,6 @@
       "extraLabel": "OSL"
     },
     {
-      "keyCode": 20545,
-      "label": "LEFT",
-      "extraLabel": "M.Btn"
-    },
-    {
-      "keyCode": 20546,
-      "label": "RIGHT",
-      "extraLabel": "M.Btn"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
       "keyCode": 20546,
       "label": "RIGHT",
       "extraLabel": "M.Btn"
@@ -497,11 +490,6 @@
       "keyCode": 20545,
       "label": "LEFT",
       "extraLabel": "M.Btn"
-    },
-    {
-      "keyCode": 49167,
-      "label": "7",
-      "extraLabel": "OSL"
     },
     {
       "keyCode": 0,
@@ -519,13 +507,6 @@
     7,
     7,
     7,
-    13,
-    13,
-    13,
-    13,
-    13,
-    7,
-    7,
     15,
     15,
     15,
@@ -538,10 +519,17 @@
     15,
     15,
     15,
+    7,
+    14,
+    15,
+    15,
+    15,
+    15,
+    15,
     13,
+    15,
+    15,
     12,
-    15,
-    15,
     13,
     13,
     13,
@@ -554,29 +542,29 @@
     7,
     7,
     7,
-    13,
-    13,
-    13,
-    13,
-    13,
-    7,
-    7,
     15,
     15,
     15,
     15,
     15,
     7,
-    13,
+    7,
+    15,
+    15,
+    15,
+    15,
+    15,
+    7,
+    14,
     15,
     15,
     15,
     15,
     15,
     13,
+    15,
+    15,
     12,
-    15,
-    15,
     13,
     7,
     13,

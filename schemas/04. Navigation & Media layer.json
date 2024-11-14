@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "en-US",
+  "language": "english",
   "layerNames": [
     {
       "id": 0,
@@ -39,7 +39,7 @@
     },
     {
       "id": 6,
-      "name": "Shortcuts layer"
+      "name": "Shortcuts & Layers"
     },
     {
       "id": 7,
@@ -47,7 +47,7 @@
     },
     {
       "id": 8,
-      "name": "Base layer specular "
+      "name": "Base layer specular"
     },
     {
       "id": 9,
@@ -206,58 +206,32 @@
     },
     {
       "keyCode": 17153,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
+      "label": "PREV",
       "extraLabel": "LED",
       "verbose": "Previous"
     },
     {
-      "keyCode": 19682,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "",
-      "verbose": "Mute"
-    },
-    {
       "keyCode": 23786,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
+      "label": "🔉",
       "extraLabel": "",
       "verbose": "Volume down"
     },
     {
+      "keyCode": 19682,
+      "label": "🔇",
+      "extraLabel": "",
+      "verbose": "MUTE"
+    },
+    {
       "keyCode": 23785,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
+      "label": "🔊",
       "extraLabel": "",
       "verbose": "Volume up"
     },
     {
       "keyCode": 17152,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "LED",
-      "verbose": "Next"
+      "label": "NEXT",
+      "extraLabel": "LED"
     },
     {
       "keyCode": 0,
@@ -317,9 +291,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 231,
-      "label": "RIGHT WIN",
-      "verbose": "Right Windows"
+      "keyCode": 17154,
+      "label": "TOGGLE",
+      "extraLabel": "LED"
     },
     {
       "keyCode": 229,
@@ -340,15 +314,9 @@
       "verbose": "AltGr"
     },
     {
-      "keyCode": 17154,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "extraLabel": "LED",
-      "verbose": "Toggle"
+      "keyCode": 231,
+      "label": "RIGHT WIN",
+      "verbose": "Right Windows"
     },
     {
       "keyCode": 0,
@@ -410,55 +378,30 @@
     },
     {
       "keyCode": 20866,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
+      "label": "SLEEP",
       "verbose": "Sleep"
     },
     {
       "keyCode": 22710,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
+      "label": "⏮",
       "extraLabel": "",
       "verbose": "Prev. track"
     },
     {
       "keyCode": 22711,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
+      "label": "⏹",
       "extraLabel": "",
-      "verbose": "Stop"
+      "verbose": "STOP"
     },
     {
       "keyCode": 22733,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
+      "label": "⏯",
       "extraLabel": "",
       "verbose": "Play / pause"
     },
     {
       "keyCode": 22709,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
+      "label": "⏭",
       "extraLabel": "",
       "verbose": "Next track"
     },
@@ -507,16 +450,14 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
     },
     {
       "keyCode": 0,
@@ -570,7 +511,7 @@
     5,
     5,
     13,
-    13,
+    7,
     5,
     5,
     5,
@@ -590,7 +531,7 @@
     1,
     13,
     13,
-    13,
+    14,
     7,
     7,
     7,
@@ -605,12 +546,12 @@
     4,
     4,
     13,
-    13,
+    7,
+    0,
+    0,
+    0,
+    0,
     4,
-    0,
-    0,
-    0,
-    0,
     13,
     13,
     4,
@@ -625,7 +566,7 @@
     13,
     13,
     13,
-    13,
+    14,
     6,
     6,
     6,
