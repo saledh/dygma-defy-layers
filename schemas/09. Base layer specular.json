@@ -479,8 +479,8 @@
       }
     },
     {
-      "keyCode": 51262,
-      "label": "SPACE",
+      "keyCode": 51258,
+      "label": "ENTER",
       "extraLabel": {
         "key": null,
         "ref": null,
@@ -503,8 +503,8 @@
       }
     },
     {
-      "keyCode": 53050,
-      "label": "ENTER",
+      "keyCode": 53051,
+      "label": "ESC",
       "extraLabel": {
         "key": null,
         "ref": null,
@@ -601,8 +601,8 @@
       }
     },
     {
-      "keyCode": 52794,
-      "label": "ENTER",
+      "keyCode": 52798,
+      "label": "SPACE",
       "extraLabel": {
         "key": null,
         "ref": null,
