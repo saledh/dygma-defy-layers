@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "english",
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -39,15 +39,15 @@
     },
     {
       "id": 6,
-      "name": "Shortcuts & Layers"
+      "name": "Shortcuts layer"
     },
     {
       "id": 7,
-      "name": "F keys layer"
+      "name": "Gaming & Function layer"
     },
     {
       "id": 8,
-      "name": "Base layer specular"
+      "name": "Base layer specular "
     },
     {
       "id": 9,
@@ -390,14 +390,16 @@
     },
     {
       "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 0,
@@ -413,8 +415,22 @@
     },
     {
       "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -515,8 +531,8 @@
     1,
     1,
     13,
+    13,
     14,
-    7,
     13,
     6,
     6,

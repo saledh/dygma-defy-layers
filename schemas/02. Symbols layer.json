@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "english",
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -39,15 +39,15 @@
     },
     {
       "id": 6,
-      "name": "Shortcuts & Layers"
+      "name": "Shortcuts layer"
     },
     {
       "id": 7,
-      "name": "F keys layer"
+      "name": "Gaming & Function layer"
     },
     {
       "id": 8,
-      "name": "Base layer specular"
+      "name": "Base layer specular "
     },
     {
       "id": 9,
@@ -159,23 +159,28 @@
     },
     {
       "keyCode": 2101,
-      "label": "~"
+      "label": "~",
+      "alt": true
     },
     {
       "keyCode": 2084,
-      "label": "&"
+      "label": "&",
+      "alt": true
     },
     {
       "keyCode": 2085,
-      "label": "*"
+      "label": "*",
+      "alt": true
     },
     {
       "keyCode": 2086,
-      "label": "("
+      "label": "(",
+      "alt": true
     },
     {
       "keyCode": 2097,
-      "label": "|"
+      "label": "|",
+      "alt": true
     },
     {
       "keyCode": 0,
@@ -203,23 +208,28 @@
     },
     {
       "keyCode": 2097,
-      "label": "|"
+      "label": "|",
+      "alt": true
     },
     {
       "keyCode": 2086,
-      "label": "("
+      "label": "(",
+      "alt": true
     },
     {
       "keyCode": 2085,
-      "label": "*"
+      "label": "*",
+      "alt": true
     },
     {
       "keyCode": 2084,
-      "label": "&"
+      "label": "&",
+      "alt": true
     },
     {
       "keyCode": 2101,
-      "label": "~"
+      "label": "~",
+      "alt": true
     },
     {
       "keyCode": 0,
@@ -235,23 +245,28 @@
     },
     {
       "keyCode": 2087,
-      "label": ")"
+      "label": ")",
+      "alt": true
     },
     {
       "keyCode": 2081,
-      "label": "$"
+      "label": "$",
+      "alt": true
     },
     {
       "keyCode": 2082,
-      "label": "%"
+      "label": "%",
+      "alt": true
     },
     {
       "keyCode": 2083,
-      "label": "^"
+      "label": "^",
+      "alt": true
     },
     {
       "keyCode": 2099,
-      "label": ":"
+      "label": ":",
+      "alt": true
     },
     {
       "keyCode": 0,
@@ -279,23 +294,28 @@
     },
     {
       "keyCode": 2099,
-      "label": ":"
+      "label": ":",
+      "alt": true
     },
     {
       "keyCode": 2083,
-      "label": "^"
+      "label": "^",
+      "alt": true
     },
     {
       "keyCode": 2082,
-      "label": "%"
+      "label": "%",
+      "alt": true
     },
     {
       "keyCode": 2081,
-      "label": "$"
+      "label": "$",
+      "alt": true
     },
     {
       "keyCode": 2087,
-      "label": ")"
+      "label": ")",
+      "alt": true
     },
     {
       "keyCode": 0,
@@ -311,23 +331,28 @@
     },
     {
       "keyCode": 2094,
-      "label": "+"
+      "label": "+",
+      "alt": true
     },
     {
       "keyCode": 2078,
-      "label": "!"
+      "label": "!",
+      "alt": true
     },
     {
       "keyCode": 2079,
-      "label": "@"
+      "label": "@",
+      "alt": true
     },
     {
       "keyCode": 2080,
-      "label": "#"
+      "label": "#",
+      "alt": true
     },
     {
       "keyCode": 2093,
-      "label": "_"
+      "label": "_",
+      "alt": true
     },
     {
       "keyCode": 65535,
@@ -355,23 +380,28 @@
     },
     {
       "keyCode": 2093,
-      "label": "_"
+      "label": "_",
+      "alt": true
     },
     {
       "keyCode": 2080,
-      "label": "#"
+      "label": "#",
+      "alt": true
     },
     {
       "keyCode": 2079,
-      "label": "@"
+      "label": "@",
+      "alt": true
     },
     {
       "keyCode": 2078,
-      "label": "!"
+      "label": "!",
+      "alt": true
     },
     {
       "keyCode": 2094,
-      "label": "+"
+      "label": "+",
+      "alt": true
     },
     {
       "keyCode": 0,
@@ -381,16 +411,26 @@
     },
     {
       "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 2095,
-      "label": "{"
+      "label": "{",
+      "alt": true
     },
     {
       "keyCode": 2096,
-      "label": "}"
+      "label": "}",
+      "alt": true
     },
     {
       "keyCode": 0,
@@ -454,16 +494,26 @@
     },
     {
       "keyCode": 2096,
-      "label": "}"
+      "label": "}",
+      "alt": true
     },
     {
       "keyCode": 2095,
-      "label": "{"
+      "label": "{",
+      "alt": true
     },
     {
       "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
     }
   ],
   "colormap": [

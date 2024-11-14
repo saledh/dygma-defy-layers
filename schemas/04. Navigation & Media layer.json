@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "english",
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -39,15 +39,15 @@
     },
     {
       "id": 6,
-      "name": "Shortcuts & Layers"
+      "name": "Shortcuts layer"
     },
     {
       "id": 7,
-      "name": "F keys layer"
+      "name": "Gaming & Function layer"
     },
     {
       "id": 8,
-      "name": "Base layer specular"
+      "name": "Base layer specular "
     },
     {
       "id": 9,
@@ -206,32 +206,68 @@
     },
     {
       "keyCode": 17153,
-      "label": "PREV",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "extraLabel": "LED",
       "verbose": "Previous"
     },
     {
       "keyCode": 23786,
-      "label": "🔉",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "extraLabel": "",
       "verbose": "Volume down"
     },
     {
       "keyCode": 19682,
-      "label": "🔇",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "extraLabel": "",
-      "verbose": "MUTE"
+      "verbose": "Mute"
     },
     {
       "keyCode": 23785,
-      "label": "🔊",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "extraLabel": "",
       "verbose": "Volume up"
     },
     {
       "keyCode": 17152,
-      "label": "NEXT",
-      "extraLabel": "LED"
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
+      "extraLabel": "LED",
+      "verbose": "Next"
     },
     {
       "keyCode": 0,
@@ -292,8 +328,16 @@
     },
     {
       "keyCode": 17154,
-      "label": "TOGGLE",
-      "extraLabel": "LED"
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
+      "extraLabel": "LED",
+      "verbose": "Toggle"
     },
     {
       "keyCode": 229,
@@ -378,30 +422,65 @@
     },
     {
       "keyCode": 20866,
-      "label": "SLEEP",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "verbose": "Sleep"
     },
     {
       "keyCode": 22710,
-      "label": "⏮",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "extraLabel": "",
       "verbose": "Prev. track"
     },
     {
       "keyCode": 22711,
-      "label": "⏹",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "extraLabel": "",
-      "verbose": "STOP"
+      "verbose": "Stop"
     },
     {
       "keyCode": 22733,
-      "label": "⏯",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "extraLabel": "",
       "verbose": "Play / pause"
     },
     {
       "keyCode": 22709,
-      "label": "⏭",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "extraLabel": "",
       "verbose": "Next track"
     },
@@ -413,13 +492,29 @@
     },
     {
       "keyCode": 17494,
-      "label": "3",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 3
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 49167,
-      "label": "7",
-      "extraLabel": "OSL"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "layerNumber": 7,
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 225,
@@ -430,7 +525,7 @@
     {
       "keyCode": 481,
       "label": "SHIFT",
-      "extraLabel": "C+"
+      "extraLabel": ""
     },
     {
       "keyCode": 226,
@@ -451,13 +546,29 @@
     },
     {
       "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 0,
@@ -492,8 +603,16 @@
     },
     {
       "keyCode": 17494,
-      "label": "3",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 3
+        },
+        "_owner": null
+      }
     }
   ],
   "colormap": [

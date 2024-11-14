@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "english",
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -39,15 +39,15 @@
     },
     {
       "id": 6,
-      "name": "Shortcuts & Layers"
+      "name": "Shortcuts layer"
     },
     {
       "id": 7,
-      "name": "F keys layer"
+      "name": "Gaming & Function layer"
     },
     {
       "id": 8,
-      "name": "Base layer specular"
+      "name": "Base layer specular "
     },
     {
       "id": 9,
@@ -160,27 +160,27 @@
     {
       "keyCode": 6224,
       "label": "←",
-      "extraLabel": "S+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4119,
       "label": "T",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4139,
       "label": "TAB",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 6223,
       "label": "→",
-      "extraLabel": "S+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 6223,
       "label": "→",
-      "extraLabel": "S+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 0,
@@ -209,27 +209,27 @@
     {
       "keyCode": 6224,
       "label": "←",
-      "extraLabel": "S+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 6224,
       "label": "←",
-      "extraLabel": "S+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4139,
       "label": "TAB",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4119,
       "label": "T",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 6223,
       "label": "→",
-      "extraLabel": "S+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 0,
@@ -240,27 +240,27 @@
     {
       "keyCode": 4432,
       "label": "←",
-      "extraLabel": "C+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4432,
       "label": "←",
-      "extraLabel": "C+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 6226,
       "label": "↑",
-      "extraLabel": "S+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 6225,
       "label": "↓",
-      "extraLabel": "S+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4431,
       "label": "→",
-      "extraLabel": "C+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 53856,
@@ -299,27 +299,27 @@
     {
       "keyCode": 4432,
       "label": "←",
-      "extraLabel": "C+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 6225,
       "label": "↓",
-      "extraLabel": "S+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 6226,
       "label": "↑",
-      "extraLabel": "S+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4431,
       "label": "→",
-      "extraLabel": "C+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4431,
       "label": "→",
-      "extraLabel": "C+O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 0,
@@ -330,27 +330,27 @@
     {
       "keyCode": 4176,
       "label": "←",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4178,
       "label": "↑",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4177,
       "label": "↓",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4175,
       "label": "→",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4103,
       "label": "D",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 65535,
@@ -379,27 +379,27 @@
     {
       "keyCode": 4103,
       "label": "D",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4176,
       "label": "←",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4177,
       "label": "↓",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4178,
       "label": "↑",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 4175,
       "label": "→",
-      "extraLabel": "O+"
+      "extraLabel": ""
     },
     {
       "keyCode": 0,
@@ -415,8 +415,16 @@
     },
     {
       "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 0,
@@ -492,8 +500,16 @@
     },
     {
       "keyCode": 17501,
-      "label": "10",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 0,
