@@ -152,10 +152,17 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17501,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 2101,
@@ -232,16 +239,23 @@
       "alt": true
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17501,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 225,
+      "label": "SHIFT",
+      "extraLabel": "LEFT",
+      "verbose": "Left Shift"
     },
     {
       "keyCode": 2087,
@@ -318,10 +332,10 @@
       "alt": true
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 229,
+      "label": "SHIFT",
+      "extraLabel": "RIGHT",
+      "verbose": "Right Shift"
     },
     {
       "keyCode": 0,
@@ -410,17 +424,15 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17501,
-      "label": "",
-      "extraLabel": {
-        "key": null,
-        "ref": null,
-        "props": {
-          "type": "lock",
-          "layerNumber": 10
-        },
-        "_owner": null
-      }
+      "keyCode": 224,
+      "label": "CTRL",
+      "extraLabel": "LEFT",
+      "verbose": "Left Control"
+    },
+    {
+      "keyCode": 226,
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
     },
     {
       "keyCode": 2095,
@@ -481,18 +493,6 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
       "keyCode": 2096,
       "label": "}",
       "alt": true
@@ -503,17 +503,16 @@
       "alt": true
     },
     {
-      "keyCode": 17501,
-      "label": "",
-      "extraLabel": {
-        "key": null,
-        "ref": null,
-        "props": {
-          "type": "lock",
-          "layerNumber": 10
-        },
-        "_owner": null
-      }
+      "keyCode": 230,
+      "label": "RIGHT ALT",
+      "extraLabel": "",
+      "verbose": "AltGr"
+    },
+    {
+      "keyCode": 228,
+      "label": "CTRL",
+      "extraLabel": "RIGHT",
+      "verbose": "Right Control"
     }
   ],
   "colormap": [
@@ -524,65 +523,65 @@
     13,
     13,
     13,
-    13,
-    10,
-    10,
-    10,
-    10,
-    10,
-    13,
-    7,
-    10,
-    10,
-    10,
-    10,
-    10,
-    13,
-    13,
-    10,
-    10,
-    10,
-    10,
-    10,
     6,
     9,
-    10,
-    7,
-    13,
-    7,
-    13,
-    7,
-    7,
-    13,
-    13,
-    13,
-    13,
-    13,
-    13,
-    13,
-    10,
-    10,
-    10,
-    10,
-    10,
-    13,
-    7,
-    10,
-    10,
-    10,
-    10,
-    10,
-    13,
-    13,
-    10,
-    10,
-    10,
-    10,
-    10,
-    6,
     9,
-    10,
+    9,
+    9,
+    9,
+    13,
+    0,
+    9,
+    9,
+    9,
+    9,
+    9,
+    13,
     7,
+    9,
+    9,
+    9,
+    9,
+    9,
+    0,
+    0,
+    9,
+    9,
+    13,
+    7,
+    13,
+    7,
+    7,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    14,
+    9,
+    9,
+    9,
+    9,
+    9,
+    13,
+    0,
+    9,
+    9,
+    9,
+    9,
+    9,
+    13,
+    7,
+    9,
+    9,
+    9,
+    9,
+    9,
+    0,
+    0,
+    9,
+    9,
     13,
     7,
     13,
@@ -758,10 +757,10 @@
       "rgb": "rgb(184, 233, 134)"
     },
     {
-      "r": 184,
-      "g": 233,
-      "b": 134,
-      "rgb": "rgb(184, 233, 134)"
+      "r": 139,
+      "g": 87,
+      "b": 42,
+      "rgb": "rgb(139, 87, 42)"
     },
     {
       "r": 80,

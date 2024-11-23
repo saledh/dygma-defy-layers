@@ -362,16 +362,23 @@
       "label": "→"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 229,
+      "label": "SHIFT",
+      "extraLabel": "RIGHT",
+      "verbose": "Right Shift"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17495,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 4
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 22710,
@@ -484,12 +491,6 @@
       "label": "END"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
       "keyCode": 17495,
       "label": "",
       "extraLabel": {
@@ -503,19 +504,6 @@
       }
     },
     {
-      "keyCode": 42,
-      "label": "BACKSPACE",
-      "verbose": "Backspace"
-    },
-    {
-      "keyCode": 44,
-      "label": "SPACE"
-    },
-    {
-      "keyCode": 40,
-      "label": "ENTER"
-    },
-    {
       "keyCode": 0,
       "label": "KEY",
       "extraLabel": "NO",
@@ -526,67 +514,6 @@
       "label": "KEY",
       "extraLabel": "NO",
       "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 17501,
-      "label": "",
-      "extraLabel": {
-        "key": null,
-        "ref": null,
-        "props": {
-          "type": "lock",
-          "layerNumber": 10
-        },
-        "_owner": null
-      }
-    },
-    {
-      "keyCode": 17501,
-      "label": "",
-      "extraLabel": {
-        "key": null,
-        "ref": null,
-        "props": {
-          "type": "lock",
-          "layerNumber": 10
-        },
-        "_owner": null
-      }
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 230,
-      "label": "RIGHT ALT",
-      "extraLabel": "",
-      "verbose": "AltGr"
-    },
-    {
-      "keyCode": 485,
-      "label": "SHIFT",
-      "extraLabel": ""
-    },
-    {
-      "keyCode": 229,
-      "label": "SHIFT",
-      "extraLabel": "RIGHT",
-      "verbose": "Right Shift"
     },
     {
       "keyCode": 49167,
@@ -602,17 +529,101 @@
       }
     },
     {
-      "keyCode": 17495,
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 17501,
       "label": "",
       "extraLabel": {
         "key": null,
         "ref": null,
         "props": {
           "type": "lock",
-          "layerNumber": 4
+          "layerNumber": 10
         },
         "_owner": null
       }
+    },
+    {
+      "keyCode": 17501,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 740,
+      "label": "CTRL",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2276,
+      "label": "CTRL",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 49167,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "layerNumber": 7,
+          "size": "sm"
+        },
+        "_owner": null
+      }
+    },
+    {
+      "keyCode": 230,
+      "label": "RIGHT ALT",
+      "extraLabel": "",
+      "verbose": "AltGr"
     }
   ],
   "colormap": [
@@ -637,16 +648,16 @@
     0,
     4,
     13,
-    13,
-    4,
-    4,
-    4,
-    4,
-    4,
     5,
-    1,
-    1,
-    1,
+    4,
+    4,
+    4,
+    4,
+    4,
+    7,
+    7,
+    12,
+    7,
     13,
     13,
     13,
@@ -665,24 +676,24 @@
     5,
     5,
     13,
-    7,
+    0,
     5,
     5,
     5,
     5,
     5,
     13,
-    13,
-    5,
-    5,
-    5,
-    5,
-    5,
     4,
+    5,
+    5,
+    5,
+    5,
+    5,
+    0,
     12,
-    1,
-    1,
-    1,
+    0,
+    0,
+    13,
     13,
     13,
     14,
@@ -857,10 +868,10 @@
       "rgb": "rgb(184, 233, 134)"
     },
     {
-      "r": 184,
-      "g": 233,
-      "b": 134,
-      "rgb": "rgb(184, 233, 134)"
+      "r": 139,
+      "g": 87,
+      "b": 42,
+      "rgb": "rgb(139, 87, 42)"
     },
     {
       "r": 80,

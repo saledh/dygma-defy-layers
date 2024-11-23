@@ -152,10 +152,17 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17493,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 2
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 20,
@@ -222,10 +229,17 @@
       "label": "'"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17493,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 2
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 17500,
@@ -390,10 +404,17 @@
       }
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17492,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 1
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 29,
@@ -460,39 +481,33 @@
       "label": "/"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 49165,
+      "keyCode": 17492,
       "label": "",
       "extraLabel": {
         "key": null,
         "ref": null,
         "props": {
-          "layerNumber": 5,
-          "size": "sm"
+          "type": "lock",
+          "layerNumber": 1
         },
         "_owner": null
       }
     },
     {
-      "keyCode": 51773,
+      "keyCode": 52285,
       "label": "TAB",
       "extraLabel": {
         "key": null,
         "ref": null,
         "props": {
-          "layerNumber": 3
+          "layerNumber": 5
         },
         "_owner": null
       }
     },
     {
-      "keyCode": 52798,
-      "label": "SPACE",
+      "keyCode": 52794,
+      "label": "ENTER",
       "extraLabel": {
         "key": null,
         "ref": null,
@@ -503,8 +518,20 @@
       }
     },
     {
-      "keyCode": 52574,
-      "label": "DEL",
+      "keyCode": 51774,
+      "label": "SPACE",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "layerNumber": 3
+        },
+        "_owner": null
+      }
+    },
+    {
+      "keyCode": 52539,
+      "label": "ESC",
       "extraLabel": {
         "key": null,
         "ref": null,
@@ -589,20 +616,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 53051,
+      "keyCode": 51515,
       "label": "ESC",
-      "extraLabel": {
-        "key": null,
-        "ref": null,
-        "props": {
-          "layerNumber": 8
-        },
-        "_owner": null
-      }
-    },
-    {
-      "keyCode": 51516,
-      "label": "BACKSPACE",
       "extraLabel": {
         "key": null,
         "ref": null,
@@ -613,8 +628,8 @@
       }
     },
     {
-      "keyCode": 51258,
-      "label": "ENTER",
+      "keyCode": 51260,
+      "label": "BACKSPACE",
       "extraLabel": {
         "key": null,
         "ref": null,
@@ -625,14 +640,25 @@
       }
     },
     {
-      "keyCode": 49165,
-      "label": "",
+      "keyCode": 52794,
+      "label": "ENTER",
       "extraLabel": {
         "key": null,
         "ref": null,
         "props": {
-          "layerNumber": 5,
-          "size": "sm"
+          "layerNumber": 7
+        },
+        "_owner": null
+      }
+    },
+    {
+      "keyCode": 52285,
+      "label": "TAB",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "layerNumber": 5
         },
         "_owner": null
       }
@@ -646,7 +672,7 @@
     13,
     13,
     13,
-    13,
+    9,
     6,
     6,
     6,
@@ -660,19 +686,19 @@
     0,
     14,
     13,
-    13,
+    2,
     14,
     14,
     14,
     14,
     14,
     3,
-    5,
     12,
+    5,
     15,
     13,
     15,
-    0,
+    10,
     5,
     13,
     13,
@@ -681,7 +707,7 @@
     13,
     13,
     13,
-    13,
+    9,
     6,
     6,
     6,
@@ -695,16 +721,16 @@
     0,
     14,
     13,
-    13,
+    2,
     14,
     14,
     14,
     14,
     14,
     3,
+    12,
     2,
     9,
-    1,
     13,
     15,
     1,
@@ -880,10 +906,10 @@
       "rgb": "rgb(184, 233, 134)"
     },
     {
-      "r": 184,
-      "g": 233,
-      "b": 134,
-      "rgb": "rgb(184, 233, 134)"
+      "r": 139,
+      "g": 87,
+      "b": 42,
+      "rgb": "rgb(139, 87, 42)"
     },
     {
       "r": 80,

@@ -416,16 +416,6 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 20545,
-      "label": "LEFT",
-      "extraLabel": "M.Btn"
-    },
-    {
-      "keyCode": 20546,
-      "label": "RIGHT",
-      "extraLabel": "M.Btn"
-    },
-    {
       "keyCode": 49167,
       "label": "",
       "extraLabel": {
@@ -437,6 +427,16 @@
         },
         "_owner": null
       }
+    },
+    {
+      "keyCode": 20545,
+      "label": "LEFT",
+      "extraLabel": "M.Btn"
+    },
+    {
+      "keyCode": 20546,
+      "label": "RIGHT",
+      "extraLabel": "M.Btn"
     },
     {
       "keyCode": 0,
@@ -501,6 +501,16 @@
       "verbose": "Disabled"
     },
     {
+      "keyCode": 20546,
+      "label": "RIGHT",
+      "extraLabel": "M.Btn"
+    },
+    {
+      "keyCode": 20545,
+      "label": "LEFT",
+      "extraLabel": "M.Btn"
+    },
+    {
       "keyCode": 49167,
       "label": "",
       "extraLabel": {
@@ -512,16 +522,6 @@
         },
         "_owner": null
       }
-    },
-    {
-      "keyCode": 20546,
-      "label": "RIGHT",
-      "extraLabel": "M.Btn"
-    },
-    {
-      "keyCode": 20545,
-      "label": "LEFT",
-      "extraLabel": "M.Btn"
     },
     {
       "keyCode": 0,
@@ -559,9 +559,9 @@
     15,
     15,
     13,
-    15,
-    15,
     12,
+    15,
+    15,
     13,
     14,
     13,
@@ -594,9 +594,9 @@
     15,
     15,
     13,
-    15,
-    15,
     12,
+    15,
+    15,
     13,
     14,
     13,
@@ -772,10 +772,10 @@
       "rgb": "rgb(184, 233, 134)"
     },
     {
-      "r": 184,
-      "g": 233,
-      "b": 134,
-      "rgb": "rgb(184, 233, 134)"
+      "r": 139,
+      "g": 87,
+      "b": 42,
+      "rgb": "rgb(139, 87, 42)"
     },
     {
       "r": 80,
