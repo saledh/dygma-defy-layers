@@ -510,12 +510,6 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
       "keyCode": 49167,
       "label": "",
       "extraLabel": {
@@ -527,6 +521,12 @@
         },
         "_owner": null
       }
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -607,14 +607,13 @@
       "extraLabel": ""
     },
     {
-      "keyCode": 49167,
-      "label": "",
+      "keyCode": 52794,
+      "label": "ENTER",
       "extraLabel": {
         "key": null,
         "ref": null,
         "props": {
-          "layerNumber": 7,
-          "size": "sm"
+          "layerNumber": 7
         },
         "_owner": null
       }
@@ -655,8 +654,8 @@
     4,
     4,
     7,
-    7,
     12,
+    13,
     7,
     13,
     13,
